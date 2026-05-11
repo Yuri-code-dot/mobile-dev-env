@@ -228,7 +228,7 @@ tmux attach -t main
 
 ## 📲 Tested On
 
-![Snapdragon](https://img.shields.io/badge/Snapdragon-8%20Elite-6a0dad?style=for-the-badge&logoColor=white)
+![potato mobile gpc](https://img.shields.io/badge/potato-8%20GPU-6a0dad?style=for-the-badge&logoColor=white)
 ![Potato Phone](https://img.shields.io/badge/Also%20works%20on-Potato%20Phone%20🥔-7b2d8b?style=for-the-badge&logo=android&logoColor=white)
 
 ---
